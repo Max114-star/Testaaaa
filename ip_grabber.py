@@ -26,7 +26,7 @@ def index():
 
     send_ip(ip, date)
 
-    return redirect("https://google.com")
+    return redirect("https://pyhtontest.onrender.com")
 
 
 
